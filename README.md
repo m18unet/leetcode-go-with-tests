@@ -20,14 +20,14 @@ make 0001
 
 ## Solutions
 
-| No   | Title   | Difficulty | Problem Definition                             | Solution                |
-| ---- | ------- | ---------- | ---------------------------------------------- | ----------------------- |
-| 0001 | Two Sum | Easy       | [Click](https://leetcode.com/problems/two-sum) | [Click](solutions/0001) |
+| No   | Title   | Difficulty | Problem Definition                                                                         | Solution                |
+| ---- | ------- | ---------- | ------------------------------------------------------------------------------------------ | ----------------------- |
+| 0001 | Two Sum | Easy       | [Click](https://leetcode.com/problems/two-sum){:target="_blank" rel="noopener noreferrer"} | [Click](solutions/0001) |
 
 ## Useful Resources
 
-- [keep-practicing/leetcode-go](https://github.com/keep-practicing/leetcode-go)
-- [aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go)
+- [keep-practicing/leetcode-go](https://github.com/keep-practicing/leetcode-go){:target="_blank" rel="noopener noreferrer"}
+- [aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go){:target="_blank" rel="noopener noreferrer"}
 
 ## Contributions
 
